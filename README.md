@@ -16,3 +16,6 @@
 ![Successful merge](output_git_rebase.png?raw=true "Screenshot of successful merge")
 ### Git log to show order of commits changed
 ![Successful merge](order_of_commits_changed.png?raw=true "Screenshot of successful merge")
+## Activity 6
+### URL: https://github.com/camillebruckmann/ECE444-F2022-EP
+
