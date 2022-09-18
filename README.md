@@ -18,4 +18,9 @@
 ![Successful merge](order_of_commits_changed.png?raw=true "Screenshot of successful merge")
 ## Activity 6
 ### URL: https://github.com/camillebruckmann/ECE444-F2022-EP
-
+## Activity 7
+![New title](new_title.png?raw=true "New title")
+![Successful rebase](successful_rebase_2.png?raw=true "Successful rebase")
+## Activity 8
+![New tab](new_tab.png?raw=true "New tab")
+![Successful rebase](successful_rebase_1.png?raw=true "Successful rebase")
