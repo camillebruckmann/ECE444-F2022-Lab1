@@ -20,7 +20,7 @@
 ### URL: https://github.com/camillebruckmann/ECE444-F2022-EP
 ## Activity 7
 ![New title](new_title.png?raw=true "New title")
-![Successful rebase](successful_rebase_2.png?raw=true "Successful rebase")
+![Successful rebase](successful-rebase-2.png?raw=true "Successful rebase")
 ## Activity 8
-![New tab](new_tab.png?raw=true "New tab")
-![Successful rebase](successful_rebase_1.png?raw=true "Successful rebase")
+![New tab](new-tab.png?raw=true "New tab")
+![Successful rebase](successful-rebase-1.png?raw=true "Successful rebase")
