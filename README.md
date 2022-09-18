@@ -8,6 +8,7 @@
 ## Activity 4
 ### Partner: https://github.com/Sean-Kurian/ECE444-F2022-Lab1
 ![My commit on Sean's repo](collaborator_commit.png?raw=true "My commit on Sean's repo")
+![Sean's commit on my repo](commit_by_collaborator.png?raw=true "Sean's commit on my repo")
 ## Activity 5
 ### Using rebase command and fixing merge conflict
 ![Successful merge](merge_conflict_git_rebase.png?raw=true "Screenshot of successful merge")
